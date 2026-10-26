@@ -7,3 +7,8 @@ Hi! My name is **[Rowiko]**, and this is a quick summary of who I am and the thi
 1. Playing Dota 2
 2. Playing Mobile Legends
 3. Iced Coffee
+
+### 🍕 Favorite Foods
+- [x] Pizza
+- [x] Ice Coffee
+ 
